@@ -1,0 +1,2 @@
+This file is for checking purpose 
+  i want to move git file to visual studio code
