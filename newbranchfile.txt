@@ -1,0 +1,9 @@
+create new branch file and move to gitbranch1 branch
+change U to A untracked to Add
+commit the changes 
+push to gitbranch1 using command git push origin gitbranch1
+check status using command git status
+
+
+
+
