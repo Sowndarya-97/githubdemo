@@ -4,3 +4,7 @@ Add -> git add (new file name eg: test1.txt)
 Commit -> git commit -m" new file is changed"
 push -> git push origin main  everything will be pushed to github
 pull -> git pull everything will be pulled to visual studio code
+
+
+incase if we delete any file in visual studio code
+again start from add -> commit-> push 
