@@ -3,6 +3,7 @@ change U to A untracked to Add
 commit the changes 
 push to gitbranch1 using command git push origin gitbranch1
 check status using command git status
+to see the changes made in new gitbranch1 use command // git diff gitbranch1
 
 
 
