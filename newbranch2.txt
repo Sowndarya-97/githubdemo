@@ -1,2 +1,12 @@
 created this file to learn about pull request
 new branch2 is created in vsc and we have to move to github
+
+create newbranch2 into vsc using command // git branch newbranch2
+check the number of branches using command // git branch -a
+push newbranch2 into github using // git push origin newbranch2
+
+Since we dont have direct access to merge , we can use pull request to merge
+go to pull req -> new pull req-> base: main to compare:newbranch2
+create pull req and in description write what you want to pull
+pull req notification  comes
+merge pull req -> pull req is merged
