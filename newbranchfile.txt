@@ -3,6 +3,10 @@ change U to A untracked to Add
 commit the changes 
 push to gitbranch1 using command git push origin gitbranch1
 check status using command git status
+to merge gitbranch1 file to main branch 
+first move to main inorder to push //git checkout main
+to merge use command // git merge gitbranch1
+then push // git push origin main
 
 
 
