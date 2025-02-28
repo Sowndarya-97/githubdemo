@@ -1,1 +1,9 @@
-git create test1.txt file
+create new branch as gitbranch1
+
+to check the number of branches use command
+
+git branch -a
+
+to switch to exact gitbranch1 use command
+
+git checkout gitbranch1
